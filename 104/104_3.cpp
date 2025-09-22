@@ -17,7 +17,6 @@ int main(){
     return 0;
 }
 
-
 /*Output:
 10 20 30 40 50
 PS I:\DSA with C++\DSA VSCode>
